@@ -13,7 +13,7 @@ Repositório para os projetos dos cursos em JavaScript.
 - Aula 1: Currying, hoisting e imutabilidade.
 - Aula 2.1: String, number, boolean, null, undefined, symbol, object, function e array.
 - Aula 2.2: Aritimétricos, atribuição, comparação, condicional, lógicos, spread e estruturas de repetição.
-- Aula 3: Herança, classes, modificadores de acesso, encapsulamento, static
+- Aula 3: Herança, classes, modificadores de acesso, encapsulamento, static e design patterns.
 
 </details>
 
